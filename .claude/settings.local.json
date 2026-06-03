@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(npm -v)",
-      "Bash(npx create-vite@5 /c/xampp/htdocs/portfolio-friguihoussem-vue --template vue)"
+      "Bash(npx create-vite@5 /c/xampp/htdocs/portfolio-friguihoussem-vue --template vue)",
+      "Bash(trash node_modules package-lock.json)"
     ]
   }
 }
