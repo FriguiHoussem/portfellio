@@ -5,9 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-      "build": "chmod +x node_modules/.bin/vite && vite build",
-
+    "build": "npx vite build",
     "preview": "vite preview"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "dependencies": {
     "vue": "^3.4.0"
