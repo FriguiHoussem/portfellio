@@ -1,4 +1,4 @@
-# Dépendances
+# Dependances
 node_modules
 
 # Build
@@ -7,7 +7,7 @@ dist
 # Logs
 *.log
 
-# Fichiers système
+# Fichiers systeme
 .DS_Store
 Thumbs.db
 
@@ -15,3 +15,7 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
+
+# IDE
+.vscode
+.idea
